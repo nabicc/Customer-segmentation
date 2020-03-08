@@ -1,4 +1,4 @@
-# E-commerce customers’ segmentation: Who are the golden clients? 
+# E-commerce customers’ segmentation
 ## Goal
 The popularity of e-commerce has risen in recent years as demonstrated by its increased share of the total global retail sales from 7.4% in 2015 to 14.1% in 2019. For e-commerce businesses, this growing trend is accompanied by more competition. One strategy to remain in the marketplace for a retail store is understanding its current customers and trying to retain them by targeting them with special offers.  According to a study made by Bain & Company, increasing the customer retention by 5% can lead to an increase in profits of 25% – 95%.
 
