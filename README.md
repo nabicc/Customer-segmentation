@@ -32,5 +32,5 @@ The data provided by the UCLI ML repo contains 541,909 rows and eight variables,
 ## Summary of results
 The market segmentation reveals that 43% of the customers belong to the category "silver" and they represent only 15% of the total of purchases made during 2011. 38% of the clients are considered “golden” and they represent 83% of the sales made in 2011. Among them, 88% live in United Kingdom and 12% did the first transaction in December 2010. 
 
-[Follow this Link for codes to show](actual URL to navigate)
+[Follow this Link for codes to show](myLib/README.md)
 
